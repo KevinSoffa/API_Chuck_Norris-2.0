@@ -1,0 +1,2 @@
+from .listagem_controller_jokes import listagem_controller_jokes
+from .router import router

@@ -1,0 +1,1 @@
+from .listagem_repository_jokes import listagem_repository_jokes
