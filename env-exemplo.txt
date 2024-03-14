@@ -5,5 +5,5 @@ PREFIXO=/api
 URL=https://api.chucknorris.io/jokes/random
 URL_CATEGORIA=https://api.chucknorris.io/jokes/categories
 
-MONGO_URL=mongodb://localhost:27017/
-MONGO_DB=API_Chuck_Norris
+MONGO_URL=
+MONGO_DB=

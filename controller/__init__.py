@@ -1,2 +1,4 @@
 from .listagem_controller_jokes import listagem_controller_jokes
+from .listagem_controller_categories import listagem_controller_categories
+from .historico_controller_jokes import historico_controller_jokes
 from .router import router
